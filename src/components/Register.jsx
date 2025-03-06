@@ -5,7 +5,7 @@ const Register = () => {
     <section>
         <div>
             <div>
-                <h1>Sign Up</h1>
+                <h1>Register</h1>
                 <p>Welcome, Create an account to continue</p>
             </div>
         </div>
